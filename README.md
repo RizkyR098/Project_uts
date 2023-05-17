@@ -1,2 +1,5 @@
 # Project_uts
-Muhammad Rizky Ramadhan 2111102441124 
+Nama: Muhammad Rizky Ramadhan 
+NIM: 2111102441124
+Kelas: B
+Matkul: Mobile Programming
